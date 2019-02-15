@@ -68,7 +68,6 @@ public class JwtToken {
             map.put("Result", 2);
         }
 
-
         return map;
     }
 
